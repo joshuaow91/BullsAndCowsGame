@@ -1,0 +1,10 @@
+# Project exclude paths
+/.gradle/
+/Bulls and Cows/task/build/
+/Bulls and Cows/task/out/
+/Bulls and Cows/task/out/production/classes/
+/Topics/Primitive and reference types/Creating a reference type/out/
+/Topics/Primitive and reference types/Creating a reference type/out/production/classes/
+/Topics/While and do-while loops/Determine the result/out/
+/Topics/While and do-while loops/Determine the result/out/production/classes/
+/Topics/While and do-while loops/Theory/build/

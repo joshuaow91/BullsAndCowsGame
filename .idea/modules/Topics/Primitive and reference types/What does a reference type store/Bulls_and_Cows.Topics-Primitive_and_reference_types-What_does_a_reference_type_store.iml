@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Primitive_and_reference_types-What_does_a_reference_type_store" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Primitive and reference types/What does a reference type store" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Bulls and Cows" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Primitive and reference types/What does a reference type store">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Primitive and reference types/What does a reference type store/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Primitive and reference types/What does a reference type store/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Primitive and reference types/What does a reference type store/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
